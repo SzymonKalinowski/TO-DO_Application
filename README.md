@@ -1,2 +1,2 @@
-# TO-DO_Aplication
-🚀 TO-DO CRUD aplication made in JAVA 🚀
+# TO-DO_Application
+🚀 TO-DO CRUD application made in JAVA 🚀
